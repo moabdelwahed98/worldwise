@@ -1,0 +1,25 @@
+.not-found {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--color-dark--1);
+  color: var(--color-light--1);
+  height: 100vh;
+}
+
+.not-found h1 {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid var(--color-light--1);
+  border-radius: 12px;
+  font-size: 5rem;
+  
+}
+
+.not-found h2 {
+  margin-bottom: 15px;
+  padding: 10px;
+  border-bottom: 1px solid var(--color-light--1);
+  font-size: 3rem;
+}
