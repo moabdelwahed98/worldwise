@@ -1,0 +1,1 @@
+import{j as n}from"./index-5f406f4f.js";const o={"not-found":"_not-found_12ale_1"};function s(){return n.jsxs("div",{className:o["not-found"],children:[n.jsx("h1",{children:"☹️ 404 ERROR"}),n.jsx("h2",{children:"Page not found"})]})}export{s as default};
